@@ -1,0 +1,18 @@
+html{
+    background-color: green;
+}
+.Deck {
+    text-align: center;
+  }
+  
+.reshuffleBtn,
+.drawBtn {
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin: 10px 0 80px 10px;
+
+  }
+  
